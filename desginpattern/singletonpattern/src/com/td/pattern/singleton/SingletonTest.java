@@ -1,5 +1,7 @@
 package com.td.pattern.singleton;
 
+import com.td.pattern.singleton.lazy.LazyManModel;
+
 public class SingletonTest {
     public static void main(String[] args) {
 

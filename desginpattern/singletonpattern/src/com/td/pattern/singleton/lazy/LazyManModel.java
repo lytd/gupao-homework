@@ -1,4 +1,4 @@
-package com.td.pattern.singleton;
+package com.td.pattern.singleton.lazy;
 public class LazyManModel {
 
     private LazyManModel(){}
