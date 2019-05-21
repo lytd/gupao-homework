@@ -6,7 +6,4 @@ public class HungerManModel {
 
     private static HungerManModel instance=new HungerManModel();
 
-
-
-
 }

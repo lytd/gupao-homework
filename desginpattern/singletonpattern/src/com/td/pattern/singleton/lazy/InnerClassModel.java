@@ -4,7 +4,7 @@ public class InnerClassModel {
 
     private InnerClassModel(){}
 
-    public static InnerClassModel getInstance(){
+    public static final InnerClassModel getInstance(){
         return LazyHolder.instance;
     }
 

@@ -7,9 +7,7 @@ public class LazyManModel {
 
     public static LazyManModel getInstance(){
         if (instance==null){
-            synchronized (LazyManModel.class){
-                instance=new LazyManModel();
-            }
+            instance=new LazyManModel();
         }
         return instance;
     }

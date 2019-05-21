@@ -5,8 +5,9 @@ import com.td.pattern.singleton.lazy.LazyManModel;
 public class SingletonTest {
     public static void main(String[] args) {
 
-        LazyManModelTest();
+        //LazyManModelTest();
 
+        Inner inner=Inner.getInstance();
 
     }
 
