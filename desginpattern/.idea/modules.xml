@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/decoratorpattern/decoratorpattern.iml" filepath="$PROJECT_DIR$/decoratorpattern/decoratorpattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/delegatepattern/delegatepattern.iml" filepath="$PROJECT_DIR$/delegatepattern/delegatepattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/desginpattern.iml" filepath="$PROJECT_DIR$/desginpattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/factorypattern/factorypattern.iml" filepath="$PROJECT_DIR$/factorypattern/factorypattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/observerpattern/observerpattern.iml" filepath="$PROJECT_DIR$/observerpattern/observerpattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/prototypepattern/prototypepattern.iml" filepath="$PROJECT_DIR$/prototypepattern/prototypepattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/proxypattern/proxypattern.iml" filepath="$PROJECT_DIR$/proxypattern/proxypattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/singletonpattern/singletonpattern.iml" filepath="$PROJECT_DIR$/singletonpattern/singletonpattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/strategypattern/strategypattern.iml" filepath="$PROJECT_DIR$/strategypattern/strategypattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desginpattern.iml" filepath="$PROJECT_DIR$/.idea/desginpattern.iml" />
     </modules>
   </component>
 </project>
